@@ -19,7 +19,27 @@
             <tr><td>5</td><td>Péntek</td></tr>
             <tr><td>6</td><td>Szombat</td></tr>
             <tr><td>7</td><td>Vasárnap</td></tr>
+        
         </table>
 
-    </body>
-</html>
+
+        <table>
+            <tr>    
+                <th>hétfő</th>
+                <th>kedd</th>
+                <th>szerda</th>
+                <th>csütörtök</th>
+                <th>péntek</th>
+                <th>szombat</th>
+                <th>vasárnap</th>
+            </tr>
+
+
+
+
+
+            </table>
+
+        </body>
+
+    </html>

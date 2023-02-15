@@ -1,0 +1,39 @@
+body
+{
+    background-color: #6EB5B8;
+    color: #3A414C;
+}
+a
+{
+    color:#756F72;
+}
+table
+{
+    width: 800px;
+    margin: auto;
+    background-color: #A7FFC3;
+    border-spacing: 5px;
+    
+}
+td
+{
+    padding: 5px;
+}
+
+.oldal
+{
+    width: 50px;
+}
+
+h1
+{
+    text-align: center;
+}
+
+
+
+
+
+
+
+

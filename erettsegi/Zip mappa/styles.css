@@ -4,7 +4,7 @@ body{
     font-family: serif;
 }
 
-/* menü stíluselemek */
+/* menï¿½ stï¿½luselemek */
 
 #menusor{
     background-color: #ff9c00;
@@ -22,7 +22,7 @@ body{
     text-decoration: underline;
 }
 
-/* táblázat stíluselemek */
+/* tï¿½blï¿½zat stï¿½luselemek */
 
 table{
     border-collapse: collapse;
@@ -32,7 +32,7 @@ table, th, td{
     border: 0;
 }
 
-/* ûrlap stíluselemek */
+/* ï¿½rlap stï¿½luselemek */
 
 .mezosor{
     padding: 8px;
@@ -70,7 +70,7 @@ table, th, td{
     background-color: #fffbf4;
 }
 
-/* egyéb stíluselemek */
+/* egyï¿½b stï¿½luselemek */
 
 #cimsor, #menusor, #tartalom{
     width: 740px;
@@ -127,3 +127,7 @@ table, th, td{
     float: right;
 }
 
+.kÃ©p150
+{
+    width: 150px
+}
